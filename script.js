@@ -9,3 +9,8 @@ function sub(a, b) {
   return a - b;
 }
 sub(5, 3);
+
+function multiply(a, b) {
+  return a * b;
+}
+multiply(5, 6);
